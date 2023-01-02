@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.product{
+  background-color: magenta;
+  border-radius: 15px;
+  margin: 15px;
+  padding: 5px;
+}
+.property{
+  background-color: violet;
+  border-radius: 60px;
+  margin: 5px;
+  padding-bottom: 2px;
+}
